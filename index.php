@@ -53,6 +53,7 @@ require_once(dirname(__FILE__) . DIRECTORY_SEPARATOR . 'device.php');
                             <li><a target="_blank" href="https://github.com/spoonysonny/pi-dashboard">GitHub Source</a></li>
                         </ul>
                     </li>
+                    <li><a href="JavaScript:history.back(-1)">返回</a></li>
                 </ul>
             </div>
         </div>
